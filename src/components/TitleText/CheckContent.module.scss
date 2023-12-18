@@ -1,0 +1,32 @@
+@import "../../assets/styles/theme";
+
+.button {
+    font:100% $helvetica;
+    text-align: center;
+    border-radius: 25px;
+    height: 40px;
+    width: 80px;
+
+}
+
+.pwhenon {
+    font:100% $helvetica;
+    text-align: center;
+    border:2px solid green;
+    border-radius: 25px;
+    height: 23px;
+}
+
+.pwhenoff {
+    font:100% $helvetica;
+    border:2px solid red;
+    text-align: center;
+    border-radius: 25px;
+    height: 23px;
+}
+
+.container {
+    text-align: center;
+    margin: 15px;
+    width:10%;
+}
